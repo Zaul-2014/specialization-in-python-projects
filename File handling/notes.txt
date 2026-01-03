@@ -1,0 +1,1 @@
+Enter any text in  Data.txt that is not any thing like 'Hello, that was boring'.
