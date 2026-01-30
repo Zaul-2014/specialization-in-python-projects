@@ -1,1 +1,1 @@
-# specialization-in-python-projects
+For capstone project 1 pick quiz.py
